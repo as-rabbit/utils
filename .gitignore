@@ -1,0 +1,8 @@
+.project
+*.patch
+.idea/
+.git/
+.env
+.DS_Store
+*.cache
+*.log
